@@ -1,8 +1,8 @@
 {
-  "name": "@sotatek/secret-polar",
-  "version": "0.9.98",
+  "name": "secret-polar-reworks",
+  "version": "0.1.2",
   "main": "dist/src/index.js",
-  "repository": "git@github.com:Sotatek-TruongNguyen2/polar-secretjs-0.96.git",
+  "repository": "git@github.com:Sotatek-TruongNguyen2/secret-polar-rework.git",
   "description": "Polar is a development environment to compile, deploy, test, run scrt contracts on different networks.",
   "authors": [
     {
